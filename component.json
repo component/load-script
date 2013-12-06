@@ -1,0 +1,10 @@
+{
+  "name": "load-script",
+  "version": "1.0.0",
+  "description": "Why'd you have to go and make things so complicated?",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "jonathanong/load-script",
+  "license": "MIT"
+}
