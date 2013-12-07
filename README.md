@@ -5,6 +5,15 @@ var load = require('load-script')
 load('https://connect.facebook.net/en_US/all.js')
 ```
 
+## Scope
+
+This is the simplest script loader possible as used by Facebook, Google, Twitter, etc.
+If you want a callback or anything more complicated,
+checkout these libraries:
+
+- [timoxley/scriptloader](https://github.com/timoxley/scriptloader)
+- [eldargab/load-script](https://github.com/eldargab/load-script)
+
 ## License
 
 The MIT License (MIT)
